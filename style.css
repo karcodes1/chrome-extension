@@ -1,0 +1,46 @@
+.inputBox {
+    height: 400px;
+    width: 325px;
+    display: grid;
+    place-items: center;
+}
+
+.logo {
+    height: 200px;
+    display: block;
+}
+
+#phoneInput {
+    width: 200px;
+    height: 25px;
+    display: block;
+    color:rgb(41, 76, 178);
+    border-radius: 12px;
+}
+
+
+#messageInput {
+    width: 200px;
+    height: 50px;
+    border-radius: 12px;
+    display: block;
+}
+
+#includeUrl {
+    color: lightblue;
+}
+
+#includeUrlLabel {
+    color: rgb(41, 76, 178);
+}
+
+#sendButton {
+    display: block;
+    width: 200px;
+    height: 50px;
+    border-radius: 12px;
+    /* background-color: white; */
+    /* border-color: rgb(41, 76, 178); */
+}
+
+
